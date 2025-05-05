@@ -5,4 +5,4 @@ Two players can take turns, and the game shows who wins or if it’s a draw.
 <br>
 You can reset anytime to play again. 
 
-Author: Muhammad Faizan.
+Author - Muhammad Faizan.
